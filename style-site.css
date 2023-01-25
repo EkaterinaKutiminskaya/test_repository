@@ -1,0 +1,10 @@
+body{
+	background: url("backgroung.png") ;
+	background-attachment: fixed ;
+	background-position: top center;
+}
+.background{
+	width: 1250px;**
+	margin: 0 auto;
+	background: rgba(161,21,207, 0.5);***
+}
